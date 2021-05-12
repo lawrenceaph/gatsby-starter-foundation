@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: AritaoCreative, Inc.
+tagline: Creative storytelling and soft marketing
+featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Create a loyal audience with AritaoCreative Inc. Build a community that stays through the long haul.
